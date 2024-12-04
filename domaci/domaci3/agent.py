@@ -1,5 +1,5 @@
 import numpy as np
-
+"""Komentar"""
 class Agent:
     def __init__(self, agent_id, true_value, noise_std=5.0):
         """
